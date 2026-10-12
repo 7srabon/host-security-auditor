@@ -11,5 +11,5 @@ A lightweight Python defensive security tool that evaluates runtime user privile
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/host-security-auditor.git
+   git clone [https://github.com/](https://github.com/)<7srabon>/host-security-auditor.git
    cd host-security-auditor
